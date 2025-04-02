@@ -41,7 +41,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fearnot221/fearnot221/output/snake.svg" alt="Snake animation" />
+![Light](https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ###
 
