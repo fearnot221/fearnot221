@@ -4,9 +4,9 @@
 
 <h2 align="center">A Senior High School Student From Taiwan🧑‍💻</h2>
 
-###
-
-<h3 align="center"></h3>
+[![website](https://img.shields.io/badge/Website-fearnot.tw-green?style=for-the-badge&logoColor=green)](https://fearnot.tw)
+[![email](https://img.shields.io/badge/Email-hi%40fearnot.tw-red?style=for-the-badge&logo=Gmail&logoColor=red)](hi@fearnot.tw)
+[![telegram](https://img.shields.io/badge/Telegram-%40fearnot221-blue?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/fearnot221)
 
 ###
 
@@ -38,8 +38,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 ![Light](https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Dark](https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
