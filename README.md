@@ -4,11 +4,13 @@
 
 <h2 align="center">A Senior High School Student From Taiwan🧑‍💻</h2>
 
-<div align="center">
-[![website](https://img.shields.io/badge/Website-fearnot.tw-green?style=for-the-badge&logoColor=green)](https://fearnot.tw)
-[![email](https://img.shields.io/badge/Email-hi%40fearnot.tw-red?style=for-the-badge&logo=Gmail&logoColor=red)](hi@fearnot.tw)
-[![telegram](https://img.shields.io/badge/Telegram-%40fearnot221-blue?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/fearnot221)
-</div>
+  <div align="center">
+  
+  [![website](https://img.shields.io/badge/Website-fearnot.tw-green?style=for-the-badge&logoColor=green)](https://fearnot.tw)
+  [![email](https://img.shields.io/badge/Email-hi%40fearnot.tw-red?style=for-the-badge&logo=Gmail&logoColor=red)](hi@fearnot.tw)
+  [![telegram](https://img.shields.io/badge/Telegram-%40fearnot221-blue?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/fearnot221)
+  
+  </div>
 
 ###
 
