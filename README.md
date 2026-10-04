@@ -25,9 +25,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg">
-    <img alt="An animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake-dark.svg?v=pixel-arcade">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg?v=pixel-arcade">
+    <img alt="An animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg?v=pixel-arcade" width="100%">
   </picture>
 </p>
 
