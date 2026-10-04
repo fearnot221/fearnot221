@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/pixel-workshop.png" width="100%" alt="Fearnot: The Pixel Workshop. My yellow tiger mascot coding in a cozy pixel-art studio at night.">
+  <img src="./assets/pixel-workshop-animated.svg" width="100%" alt="Fearnot: The Pixel Workshop. My yellow tiger mascot coding in a cozy pixel-art studio at night.">
 </p>
 
 <p align="center">
@@ -9,13 +9,14 @@
   &nbsp;
   <a href="https://t.me/fearnot221"><img src="./assets/telegram.svg" height="24" alt="Telegram: @fearnot221"></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fearnot221&amp;label=PROFILE+VIEWS&amp;color=d4a72c&amp;style=for-the-badge" height="24" alt="Profile view counter">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fearnot221.fearnot221&amp;left_color=%23111c2c&amp;right_color=%23d4a72c&amp;left_text=PROFILE%20VIEWS" height="24" alt="Profile view counter">
 </p>
 
-<h3 align="center">⌨️ Languages I use</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="./assets/languages-inventory.svg" width="416" alt="Languages I use: Python, TypeScript, HTML, CSS">
+  <img src="./assets/languages-animated.svg" width="416" alt="Python, TypeScript, HTML, CSS with animated pixel indicators">
+  <img src="./assets/tools-animated.svg" width="312" alt="React, Docker, Nginx with animated pixel indicators">
 </p>
 
 <h3 align="center">💾 Activity & streaks</h3>
