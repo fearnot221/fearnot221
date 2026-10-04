@@ -1,55 +1,37 @@
-<h1 align="center">Hi 👋! My name is Fearnot</h1>
+# Hi, I'm Fearnot.
 
-###
+**A senior high school student from Taiwan.**<br>
+Building web tools, Discord bots, and small experiments.
 
-<h2 align="center">A Senior High School Student From Taiwan🧑‍💻</h2>
+[Website](https://fearnot.tw) &nbsp; / &nbsp; [Email](mailto:hi@fearnot.tw) &nbsp; / &nbsp; [Telegram](https://t.me/fearnot221)
 
-  <div align="center">
-  
-  [![website](https://img.shields.io/badge/Website-fearnot.tw-green?style=for-the-badge&logoColor=green)](https://fearnot.tw)
-  [![email](https://img.shields.io/badge/Email-hi%40fearnot.tw-red?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:hi@fearnot.tw)
-  [![telegram](https://img.shields.io/badge/Telegram-%40fearnot221-blue?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/fearnot221)
-  
-  </div>
+## Selected work
 
-###
+### [DNS Manager](https://github.com/fearnot221/dns-manager)
+PowerDNS management with record requests, approvals, inventory, and change history.<br>
+`TypeScript` `Next.js` `React` `PostgreSQL`
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-</div>
+### [115 Discord Bot](https://github.com/fearnot221/115_dc_bot)
+A simple Discord bot for 115.<br>
+`Python`
 
-###
+### [SCIST × SITCON Game](https://github.com/fearnot221/2025-sitcon-scist-game)
+A small game built for SCIST at SITCON 2025.<br>
+`TypeScript`
 
-<img align="right" height="150" src="https://www.gravatar.com/avatar/582da575ff5a78f8f1271e3537f8b987?s=200&d=identicon"  />
+[Explore more repositories →](https://github.com/fearnot221?tab=repositories)
 
-###
+## Tools I work with
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fearnot221&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearnot221&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Languages** &nbsp; Python · TypeScript · HTML · CSS<br>
+**Web & infrastructure** &nbsp; React · Docker · Nginx
 
-###
-
-![Light](https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Dark](https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fearnot221/count.svg?"  />
-</div>
-
-###
+<details>
+<summary>Contribution snake</summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg">
+  <img alt="An animated snake tracing my GitHub contribution grid" src="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</details>
