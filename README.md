@@ -12,6 +12,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fearnot221.fearnot221&amp;left_color=%23111c2c&amp;right_color=%23d4a72c&amp;left_text=PROFILE%20VIEWS" height="24" alt="Profile view counter">
 </p>
 
+<p align="center">
+  <img src="./assets/desk-buddy.svg" width="100%" alt="Fearnot's animated desk buddy cycles through coding, debugging, taking a break, and dreaming. Decorative animation, not live status.">
+</p>
+
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
@@ -37,3 +41,43 @@
     <img alt="An animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fearnot221/fearnot221/output/github-contribution-grid-snake.svg?v=pixel-arcade" width="100%">
   </picture>
 </p>
+
+<details>
+<summary>🗝️ You found a secret door. Open it?</summary>
+
+<p align="center">
+  <img src="./assets/secret-room.svg" width="100%" alt="Three treasure chests. A: 01000001. B: 01000010. C: 01000011. Find the chest whose binary ASCII label spells C.">
+</p>
+
+Pick a chest below. One holds the key to a little souvenir.
+
+<details>
+<summary>📦 Open chest A</summary>
+
+**A coffee break!** ☕ The tiger approves, but the key is elsewhere.
+
+`01000001` is 65 in decimal, or **A** in ASCII. Try another chest.
+
+</details>
+
+<details>
+<summary>📦 Open chest B</summary>
+
+**A tiny bug escaped.** 🐛 It says it is a feature.
+
+`01000010` is 66 in decimal, or **B** in ASCII. The key is one step away.
+
+</details>
+
+<details>
+<summary>📦 Open chest C</summary>
+
+**Secret unlocked!** 🗝️ `01000011` is 67 in decimal, or **C** in ASCII.
+
+Your souvenir: [open the full-size Pixel Workshop artwork](./assets/pixel-workshop.png) and save a copy for yourself.
+
+Thanks for stopping by my little workshop. 🐯
+
+</details>
+
+</details>
